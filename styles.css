@@ -1,0 +1,171 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+nav {
+    background-color: #DBD9D9;
+    height: 100px;
+    width: auto;
+}
+
+.logo {
+    height: 50%;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.nav-links {
+    color: #585858;
+    font-family: 'Nanum Gothic', sans-serif;
+    position: relative;
+    left: 48%;
+    bottom: 15px;
+    text-decoration: none;
+    padding-right: 90px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.container-slide {
+    height: 450px;
+    width: 800px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.stary {
+    height: 450px;
+    width: 800px;
+}
+
+.Aqsah1 {
+    position: absolute;
+    left: 915px;
+    top: 210px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 2.75rem;
+}
+
+.profilep {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    left: 950px;
+    top: 300px;
+    margin-right: 50px;
+}
+
+.footer {
+    height: 100px;
+    background-color: #707070;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-right: auto;
+    padding-left: auto;
+    text-align: center;
+}
+
+.footer a {
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-right: 100px;
+    text-decoration: none;
+    position: relative;
+    left: 25px;
+    color: white;
+}
+
+.footer p {
+    position: relative;
+    left: -24px;
+    padding-top: 20px;
+    color: white;
+}
+
+
+
+
+
+.gallery-container {
+    text-align: center;
+}
+
+.gallery-h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 2.75rem;
+    text-align: center;
+    color: #585858;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.beidou {
+    width: 1000px;
+    height: auto;
+}
+
+.lick {
+    width: 1000px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.yawn {
+    width: 1000px;
+    height: auto;
+}
+
+.stand {
+    width: 1000px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.think {
+    width: 1000px;
+    height: auto;
+}
+
+
+
+
+.contact-h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 2.75rem;
+    text-align: center;
+    color: #585858;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+
+
+
+.insta {
+    width: 100px;
+    height: 100px;
+    margin-left: 720px;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+
+.fb {
+    margin-top: 150px;
+    width: 100px;
+    height: 100px;
+    margin-left: 720px;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.link {
+    position: relative;
+    left: -215px;
+}
